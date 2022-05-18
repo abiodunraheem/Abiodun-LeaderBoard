@@ -1,5 +1,5 @@
 {
-  "name": "nemwel-leaderboard",
+  "name": "abiodun-leaderboard",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nemwel-Boniface/Nemwel-LeaderBoard.git"
+    "url": "git+https://github.com/Abiodunraheem/Abiodun-LeaderBoard.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nemwel-Boniface/Nemwel-LeaderBoard/issues"
+    "url": "https://github.com/Abiodunraheem/Abiodun-LeaderBoard/issues"
   },
-  "homepage": "https://github.com/Nemwel-Boniface/Nemwel-LeaderBoard#readme",
+  "homepage": "https://github.com/Abiodunraheem/Abiodun-LeaderBoard#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.6.0",
