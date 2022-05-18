@@ -1,11 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Abiodun Leader Board
 
 > Abiodun leader board is a simple application that consumes an API and lists people according to their scores.
-![screenshot]()
-![screenshot](./images/.png)
-![screenshot](./images/lbV.png)
 
 ## How to use my application
 
@@ -23,9 +18,7 @@ When you submit a name and a score to the form, my leaderboard list will not aut
 Live site URL to my Nemwel Leader board
 [Live Demo Link](https://abiodunraheem.github.io/Abiodun-LeaderBoard/)
 
-
 ## Getting Started
-
 
 - To get a local copy up and running follow these simple example steps.
 
@@ -78,7 +71,7 @@ Feel free to check the [issues page](https://github.com/abiodunraheem/Abiodun-Le
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-Major thanks to [Nemwel]()
+Major thanks to [Abiodun]()
 
 
 ## 📝 License
