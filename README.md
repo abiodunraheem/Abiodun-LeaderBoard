@@ -3,9 +3,6 @@
 # Abiodun Leader Board
 
 > Abiodun leader board is a simple application that consumes an API and lists people according to their scores.
-![screenshot]()
-![screenshot](./images/.png)
-![screenshot](./images/lbV.png)
 
 ## How to use my application
 
