@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #3f1429 !important;
+  background-color: #610707 !important;
 }
 
 .abiodunLb {
@@ -18,7 +18,7 @@ body {
 
 h1 {
   text-align: center;
-  color: #3f1429;
+  color: #3cb17e;
   font-size: 35px;
   font-family: 'Mochiy Pop One', sans-serif;
   animation: bouge 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
@@ -50,7 +50,7 @@ h1 {
 }
 
 h2 {
-  color: #3f1429;
+  color: #610707;
   font-size: 30px;
 }
 
@@ -100,20 +100,20 @@ button:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: 1px solid #3f1429;
+  border: 1px solid #610707;
   border-bottom: 0;
 }
 
 .leftBody > div p {
   padding: 15px;
-  color: #3f1429;
+  color: #610707;
   margin: 0 10px;
   font-size: 21px;
   font-weight: 700;
 }
 
 .leftBody ul {
-  border: 1px solid #3f1429;
+  border: 1px solid #610707;
   margin: 0;
   padding: 0;
 }
@@ -129,7 +129,7 @@ button:hover {
   height: 40px;
   margin: auto 0;
   padding: 15px 15px;
-  border-bottom: 1px solid #3f1429;
+  border-bottom: 1px solid #610707;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -140,7 +140,7 @@ button:hover {
 }
 
 .leftBody ul li .span {
-  color: #3f1429;
+  color: #610707;
 }
 
 .animated {
@@ -169,6 +169,7 @@ button:hover {
   40% { transform: translateY(-30px); }
   60% { transform: translateY(-15px); }
 }
+
 .bounce {
   -webkit-animation-name: bounce;
   animation-name: bounce;
@@ -183,7 +184,7 @@ button:hover {
   outline: none;
   border: none;
   padding: 10px;
-  border-bottom: 2px solid #3f1429;
+  border-bottom: 2px solid #610707;
 }
 
 /* Desktop responsive */
