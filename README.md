@@ -15,7 +15,8 @@ When you submit a name and a score to the form, my leaderboard list will not aut
 - Linters
 
 ## Live Demo
-Live site URL to my Nemwel Leader board
+
+Live site URL to my Abiodun Leader board
 [Live Demo Link](https://abiodunraheem.github.io/Abiodun-LeaderBoard/)
 
 ## Getting Started
@@ -36,23 +37,22 @@ Live site URL to my Nemwel Leader board
 - git clone git@github.com:abiodunraheem/abiodun-LeaderBoard.git .
 
 ### Usage
-To use it run the following commands
-To get the configurations of the app run ```npm install```
-To run the application run ```npm start```
 
+To use it run the following commands
+To get the configurations of the app run `npm install`
+To run the application run `npm start`
 
 ### Run tests
 
 - To run tests run :
- ```npx hint .```
- ```npx stylelint "**/*.{css,scss}"```
-``` npx eslint .```
+  `npx hint .`
+  `npx stylelint "**/*.{css,scss}"`
+  ` npx eslint .`
 
 ### Deployment
 
 - Project is deployed using
 - git push <branch_name>
-
 
 👤 **Author**
 
@@ -71,8 +71,8 @@ Feel free to check the [issues page](https://github.com/abiodunraheem/Abiodun-Le
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-Major thanks to [Abiodun]()
 
+Major thanks to [Abiodun]()
 
 ## 📝 License
 
